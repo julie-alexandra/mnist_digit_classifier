@@ -176,6 +176,6 @@ This project is for educational purposes as part of BeCode training.
 
 ---
 
-**Author**: [Your name]  
+**Author**: Julie Libert
 **Training**: BeCode - Data & AI Bootcamp  
 **Date**: August 2025
